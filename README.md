@@ -46,3 +46,4 @@ Before you get started, ensure that you have the following prerequisites install
    ```python
    python main.py
 
+5. now, you can make prediction using the web interface of fastapi, all you need is the open you browser and access to this url : http://localhost:8000/docs#/prediction/
